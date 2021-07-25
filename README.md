@@ -25,15 +25,15 @@ and diverse and increases in difficulty and verticality as you ascend.
 ![image](./images/cathedral-topo.png)
 
 There are a couple notable features in the climb.  The first is the
-chimney.  The A, B, and C route variations all converge at the
-beginning of the fourth pitch at the chimney which frequentl becomes a
-major choke point of the climb serializing climbing teams.  The summit
-blocks are another notable feature.  The last pitch has a nice 5.6
-crack at the top with a false summit, followed by a (really is this
-the move?!) short down climb and a step across a very exposed gully,
-and then John Muir's ~20 foot 4th class scramble up onto two small
-summit blocks.  Last but not least, the descent down the backside of
-Cathedral is somewhat notorious (eg the death ledges).
+chimney.  Climbing teams typically converge at the beginning of the
+fourth pitch at the chimney which frequently becomes a major choke
+point of the climb serializing climbing teams.  The summit blocks are
+another notable feature.  The last pitch has a nice 5.6 crack at the
+top with a false summit, followed by a (really is this the move?!)
+short down climb and a step across a very exposed gully, and then John
+Muir's ~20 foot 4th class scramble up onto two small summit blocks.
+Last but not least, the descent down the backside of Cathedral is
+somewhat notorious (eg the death ledges).
 
 If Cathedral is the main course, Eichorn's Pinnacle is the desert.
 Eichorn is one of the most spectacular features in Tuolumne, named
