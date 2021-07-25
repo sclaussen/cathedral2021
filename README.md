@@ -1,6 +1,6 @@
 # Background
 
-Friday, July 16, 2021</br>
+**Friday, July 16th, 2021**<br/>
 
 Cathedral Peak is one of the most prominent peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
@@ -63,12 +63,14 @@ Here's a summary of our strategy:
 
 # Approach
 
-**July 16th, 2021**: Zeenat, Caden, and I met Jon at 9:30am at the
-Cathedral Lakes trailhead.  We sorted our gear, tossed on our
-harnesses and climbing packs, and began the hike in.  It was a clear,
-picturesque, and beautiful high sierra day, that never had a cloud in
-the sky.  It took us 2hrs 15mins to cover the 27 miles to get to the
-base of the climb, and another 30 minutes or so to get ready to climb.
+Zeenat, Caden, and I met Jon at 9:30am at the Cathedral Lakes
+trailhead.  We sorted our gear, tossed on our harnesses and climbing
+packs, and began the hike in.  It was a clear, picturesque, and
+beautiful high sierra day, that never had a cloud in the sky.  It took
+us 2hrs 15mins to cover the 2.7 miles to get to the base of the climb,
+and another 30 minutes or so to get ready to climb.  Caden had a bit
+of altitude sickness over the course of the day so that slowed our
+approach a bit.
 
 
 
@@ -78,12 +80,15 @@ Jon began the first pitch at around 12:30, it was warm at the base, so
 Caden and I both started with a single layer.  There was a party on
 the A route, and several above, so Jon picked a line between the A and
 B variations.  Caden and I began climbing around 10 minutes later, and
-were simulclimbing with Jon (Jon continued to leading as Caden and I
-followed).  Jon built a belay station on the 5.4 dihedral just above
-the top of the second pitches for the A, B, and C routes (giving us a
-really long initial pitch of around ~300ft).
+were simulclimbing with Jon (Jon continued leading as Caden and I
+followed and cleaned the gear Jon had placed).  Jon built a belay
+station on the 5.4 dihedral just above the top of the second pitches
+for the A, B, and C routes (giving us a really long initial pitch of
+around ~300ft).
 
-Caden quotes from pitch 1 while climbing:
+Caden loved this initial long pitch and climbed really well.
+
+Here were a few Caden quotes from pitch 1:
 - On learning what it's like to follow Jon: "There's no protection
   whatsoever."
 - While waiting for Jon to build the anchor: "Awesome view I love it."
@@ -97,21 +102,25 @@ Caden quotes from pitch 1 while climbing:
 # Pitch 2 of 3
 
 There were around 5 parties of 2 at the chimney choke point, so Jon
-suggested we take the variation that goes up to the left of the
-chimney to try and pass the parties so we'd still have a chance to get
-Eichorn in before dark.  Although the variation was a bit stiffer we
-opted for that option.  When Caden followed Jon's awesome lead, as the
-climbing difficulty increased, Caden locked in and his climbing
-technique increased, and he cruised through the two notivceabe crux
-sections with ease.  The belay station was towards the far left of the
-southwest face and was relatively exposed.  For the most part, Caden
-used a hanging belay technique as Jon led the 3rd pitch.  Caden was up
-around 500 feet now and was on cloud 9, loving the view, feeling
-confident that he was going to be able to finish the route, etc.
+suggested we take the B route variation that goes up to the left of
+the chimney to try and pass the parties so we'd still have a chance to
+get Eichorn in before dark (he'd free solo'ed this pitch previously so
+he had a pretty idea what it was like).  Although the variation was a
+bit stiffer we opted for that option.  When Caden followed Jon's
+awesome lead, as the climbing difficulty increased, Caden locked in
+and his climbing technique increased, and he cruised through the two
+noticeable crux sections with ease.  The belay station was towards the
+far left of the southwest face and was relatively exposed.  For the
+most part, Caden used a hanging belay technique as Jon led the 3rd
+pitch demonstrating how perfectly comfortable he was with the
+exposure.  Caden was up around 500+ feet now and he was on cloud 9,
+loving the view, super exhilarated, and feeling confident that he was
+going to be able to finish the route.  That belay station was a nice
+memory.
 
-Note: We added a layer here for Caden, changed his GoPro battery,
-drank a lot of water, but I made a mistake by not getting any carbs
-into his system.
+At this belay station we added a second layer for Caden as there was a
+bit of breeze, changed his GoPro battery, drank a lot of water, but I
+made a mistake by not getting any carbs into his system at this point.
 
 
 
@@ -120,17 +129,19 @@ into his system.
 Although we'd passed several parties, there were still a couple above
 us by the time Jon began the 3rd pitch and he passed them on his lead.
 This top section is characterized by a lot of different shorter
-sections of varied climbing.  In one section Jon had taken the 5.9
-finger crack variation.  When Caden got there, he made the attempt but
-the rope was pulling him to the left, so he got a bit frustrated, and
-eventually we bailed on that variation and he took the middle 5.6
-bulge and I took the even easier move left of that.  Above that, all
-that was left was the 5.6 crack to the false summit.  We had to wait
-in the crack behind a girl who took about 10 minutes to make the very
-last move at the top of the crack where it gets a bit wide.  She and
-her partner had begun the route at 7:30am!  Caden struggled in the
-same spot briefly but pushed through and disappeared over the false
-summit.
+sections of varied climbing.  It begins with a nice dihedral then a
+series of ledge, crack, ledge, and crack.  In one section Jon had
+taken the 5.9 finger crack variation.  When Caden got there, he made
+the attempt but the rope was pulling him to the left, so he got a bit
+frustrated (I think he was low on energy), and eventually we bailed on
+that variation and he took the middle 5.6 crack while I took the even
+easier move left of that.  Above that, all that was left was the 5.6
+crack to the false summit.  We had to wait in the crack behind a girl
+who took about 10 minutes to make the very last move at the top of the
+crack where it gets a bit wide.  She and her partner had begun the
+route at 7:30am and I think she was just exhausted!  Caden struggled
+in the same spot briefly but pushed through and disappeared over the
+false summit.
 
 
 
@@ -139,15 +150,16 @@ summit.
 Jon had built the belay station at the very base of the summit blocks
 so I took the super short lead up the summit blocks (unnecessarily
 placing one cam), built a belay station, and belayed Caden up (Jon
-unroped and free solo'ed up to join us).  We had topped out after only
-2:45 minutes of climbing.  Zeenat had hiked up the descent trail and
-was in a position on the backside of Cathedral enabling us to see her
-and vice versa.
+unroped and free solo'ed up to join us).  Caden's first words upon
+reaching the summit block were "I'm happy and I'm tired, there's
+Eichorn."  We'd been looking and discussing Eichorn for a couple
+years, so although he was exhausted his first thought upon summiting
+Cathedral was to refocus on his next goal - Eichorn.
 
-Caden's first words upon reaching the summit block were "I'm happy and
-I'm tired, there's Eichorn."  We'd been looking and discussing Eichorn
-for a couple years, so although he was exhausted his first thought
-upon summiting Cathedral was to refocus on his next goal - Eichorn.
+We had topped out after only 2:45 minutes of climbing.  Zeenat had
+hiked up the descent trail and was in a position on the backside of
+Cathedral enabling us to see her and vice versa.  From her perspective
+at the time it wasn't clear that we were even on the summit!
 
 
 
@@ -162,8 +174,8 @@ eat a bit and drink, but it was challenging, it was clear that he was
 either dehydrated, bonked, had altitude sickness, or a combination of
 all the above.  Normally we would have simply scampered across the
 ledges to Eichorn, but due to his condition, we did a full 80m rap
-down to a safer set of ledges and from there I short toped Caden to me
-and we scrambled carefully over to the base of Eichorn's Pinnacle
+down to a safer set of ledges and from there I short roped Caden to me
+and we traversed carefully over to the base of Eichorn's Pinnacle
 where Jon had established an anchor for our last pitch of the day.
 
 
@@ -171,17 +183,20 @@ where Jon had established an anchor for our last pitch of the day.
 # Eichorn's Pinnacle
 
 Now that we'd sat on Cathedral's summit block, this became the money
-pitch, and it was a new one for both Caden and I.  In my opinion it
-was the most complex and interesting pitch of the day.  If you turn a
-C around backwards, and start at the bottom of the C, traverse right,
-move up, then traverse left, that's the general path that the pitch
-takes.
+pitch, and it was a new one for both Caden and I.  I'd climbed
+Cathedral previously but hadn't attempted to lead Eichorn's Pinnacle.
+In my opinion it was the most complex and interesting pitch of the
+day.  If you turn a C around backwards, and start at the bottom of the
+C, traverse right, move up, then traverse left, that's the general
+path that the pitch takes.
 
 The first portion is characterized by a traverse where you are
 wrapping your way around the pinnacle and you even down climb a bit
 and are immediately very exposed with several hundred feet of
 nothingness below you.  When I climbed this traverse I inadvertently
 lost my balance at one point, and very nearly fell.
+
+[Echorn Lower Section of the Pitch - Shane Climbing](https://www.youtube.com/watch?v=GiWSj38ESbA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=28&t=169s)
 
 The crux of the route is right when the initial traverse completes and
 the vertical ascent begins.  Jon and I used a couple high left holds
@@ -213,6 +228,10 @@ where mom was waiting.  We switched shoes, fueled up, and began our
 hike back.
 
 
+# Videos
+
+
+
 
 # Summary
 
@@ -224,7 +243,14 @@ Time:
 - 6:30pm - begin return hike starting at the backside of cathedral
 - 8:30pm - Returned to the trailhead (11 hours car to car)
 
-Reminders from this climb:
-- Wearing in our harnesses worked out well
-- We needed all the water we took (3L for Caden and I plus a couple liters on the approach)
+Notes from the climb:
+- Wearing in our harnesses on the hike in/out worked out well
+- We needed all the water we took (3L for Caden and I during the climb plus a couple liters on the approach)
 - The more high altitude acclimation we can do prior, the better (Caden suffered from some altitude sickness during the adventure)
+- GoPro batteries and SD card size: next time around I'd take two GoPro 9s, and use two 256GB microSD cards.  I ended up swapping micro SDs on the summit block (crazy)!  I'd also switch batteries every two pitches or so just to make sure I didn't miss any action.
+- Going light on the cams worked well
+
+And repeating some notes from the last time we climbed:
+- Consider taking more water then what you think you'll need, leave extra at the base for the return, drink a lot over the first three pitches.
+- There aren't many picnic ledges, so the food you eat on the route needs to be easily accessible and quickly consumable.
+- Don't forget sunscreen & sunglasses!
