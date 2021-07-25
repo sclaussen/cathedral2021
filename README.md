@@ -5,9 +5,10 @@ Meadows in the portion of Yosemite that's north of Yosemite Valley.
 John Muir made the first ascent of Cathedral Peak in 1869 by
 scampering up the 4th class backside in boots.  The base of the peak
 is around 10,200ft and it tops out at around 10,900ft (netting 700ft
-of great climbing).  The view from the top is unsurpassed due to
-Cathedral's central location in the Yosemite.  The approach begins in
-Tuolumne Meadows at 8600ft and takes about 2 hours.
+of great climbing on white granite with knobs sprinkled everywhere).
+The view from the top is unsurpassed due to Cathedral's central
+location in Yosemite.  The approach begins in Tuolumne Meadows at
+8600ft and takes about 2 hours.
 
 Cathederal is well known among climbers due to its moderately rated
 routes and beautiful white knobby granite.  The climbs go up the
@@ -16,6 +17,8 @@ from left to right (although there are numerous variations in
 between).  If climbed with a typical 60m rope (~185 feet), Cathedral
 can be completed in 5 pitches.  The climbing is relatively sustained
 and diverse and increases in difficulty and verticality as you ascend.
+
+<img src="images/catehdral-topo"/>
 
 There are a couple notable features in the climb.  The first is the
 chimney.  The A, B, and C route variations all converge at the
