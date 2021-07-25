@@ -12,7 +12,7 @@ The view from the top is unsurpassed due to Cathedral's central
 location in Yosemite.  The approach begins in Tuolumne Meadows at
 8600ft and takes about 2 hours.
 
-<img src="./images/cathedral.jpg" alt="cathedral" width="200"/> <img src="./images/cathedral-topo.png" alt="topo" width="200"/>
+<img src="./images/cathedral.jpg" alt="cathedral" width="300"/> <img src="./images/cathedral-topo.png" alt="topo" width="300"/>
 
 Cathederal is well known among climbers due to its moderately rated
 routes and beautiful white knobby granite.  The climbs go up the
