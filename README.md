@@ -12,7 +12,7 @@ The view from the top is unsurpassed due to Cathedral's central
 location in Yosemite.  The approach begins in Tuolumne Meadows at
 8600ft and takes about 2 hours.
 
-<img src="./images/cathedral.jpg" alt="cathedral" width="200"/>
+<img src="./images/cathedral.jpg" alt="cathedral" width="200"/> <img src="./images/cathedral-topo.png" alt="topo" width="200"/>
 
 Cathederal is well known among climbers due to its moderately rated
 routes and beautiful white knobby granite.  The climbs go up the
@@ -22,7 +22,7 @@ between).  If climbed with a typical 60m rope (~185 feet), Cathedral
 can be completed in 5 pitches.  The climbing is relatively sustained
 and diverse and increases in difficulty and verticality as you ascend.
 
-<img src="./images/cathedral-topo.png" alt="topo" width="200"/>
+
 
 There are a couple notable features in the climb.  The first is the
 chimney.  Climbing teams typically converge at the beginning of the
