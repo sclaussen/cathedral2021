@@ -15,14 +15,16 @@ location in Yosemite.  The approach begins in Tuolumne Meadows at
 <img src="./images/cathedral.jpg" alt="cathedral" width="300"/> <img src="./images/cathedral-topo.png" alt="topo" width="300"/>
 
 Cathederal is well known among climbers due to its moderately rated
-routes and beautiful white knobby granite.  The climbs go up the
-southwest face and there are three "primary" variations, A, B, and C,
-from left to right (although there are numerous variations in
+routes and beautiful white knobby granite.  The climbing routes go up
+the southwest face and there are three "primary" variations, A, B, and
+C, from left to right (although there are numerous variations in
 between).  If climbed with a typical 60m rope (~185 feet), Cathedral
 can be completed in 5 pitches.  The climbing is relatively sustained
 and diverse and increases in difficulty and verticality as you ascend.
 
-
+We climbed the lower portion of Cathedral between the A and B
+variations and then went left and followed the B variation to the
+summmit.
 
 There are a couple notable features in the climb.  The first is the
 chimney.  Climbing teams typically converge at the beginning of the
@@ -42,6 +44,8 @@ after Jules Eichorn who was part of the first ascent party in 1931
 its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
+
+<img src="./images/eichorn.jpg" alt="cathedral" width="300"/> <img src="./images/eichorn-topo.png" alt="topo" width="300"/>
 
 
 
