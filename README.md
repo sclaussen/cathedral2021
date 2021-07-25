@@ -1,5 +1,7 @@
 # Background
 
+Friday, July 16, 2021</br>
+
 Cathedral Peak is one of the most prominent peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
 John Muir made the first ascent of Cathedral Peak in 1869 by
@@ -10,7 +12,7 @@ The view from the top is unsurpassed due to Cathedral's central
 location in Yosemite.  The approach begins in Tuolumne Meadows at
 8600ft and takes about 2 hours.
 
-![image](/images/cathedral.jpg)
+![image](./images/cathedral.png)
 
 Cathederal is well known among climbers due to its moderately rated
 routes and beautiful white knobby granite.  The climbs go up the
@@ -20,7 +22,7 @@ between).  If climbed with a typical 60m rope (~185 feet), Cathedral
 can be completed in 5 pitches.  The climbing is relatively sustained
 and diverse and increases in difficulty and verticality as you ascend.
 
-![image](/images/cathedral-topo.jpg)
+![image](./images/cathedral-topo.png)
 
 There are a couple notable features in the climb.  The first is the
 chimney.  The A, B, and C route variations all converge at the
