@@ -122,11 +122,11 @@ and his climbing technique increased, and he cruised through the two
 noticeable crux sections with ease.  The belay station was towards the
 far left of the southwest face and was relatively exposed.  For the
 most part, Caden used a hanging belay technique as Jon led the 3rd
-pitch demonstrating how perfectly comfortable he was with the
-exposure.  Caden was up around 500+ feet now and he was on cloud 9,
-loving the view, super exhilarated, and feeling confident that he was
-going to be able to finish the route.  That belay station was a nice
-memory.
+pitch.  Caden was proving that not only was he comfortable with the
+exposure, he actually was exhilarated by it.  He was up around 500+
+feet now and he was on cloud 9, loving the view, super happy, and
+feeling confident that he was going to be able to finish the route.
+That belay station was a nice memory.
 
 At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
