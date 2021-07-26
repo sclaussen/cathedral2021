@@ -49,6 +49,16 @@ airy, exposed, single pitch waiting.
 
 
 
+# Videos
+
+If you want the video version, here are the two summary videos of our
+adventure, each about 25 minutes long:
+
+[Cathedral Peak & Eichorn's Pinnacle (Part 1)](https://youtu.be/R2eLCRQG70I)
+[Cathedral Peak & Eichorn's Pinnacle (Part 2)](https://youtu.be/ig6kynUHPk0)
+
+
+
 # Strategy
 
 Here's a summary of our strategy:
@@ -84,7 +94,7 @@ were simulclimbing with Jon (Jon continued leading as Caden and I
 followed and cleaned the gear Jon had placed).  Jon built a belay
 station on the 5.4 dihedral just above the top of the second pitches
 for the A, B, and C routes (giving us a really long initial pitch of
-around ~300ft).
+around ~330 feet).
 
 Caden loved this initial long pitch and climbed really well.
 
@@ -121,8 +131,6 @@ memory.
 At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
-
-[Highlights of Caden climbing Pitch 1 and 2](https://youtu.be/R2eLCRQG70I)
 
 
 
@@ -192,60 +200,65 @@ day.  If you turn a C around backwards, and start at the bottom of the
 C, traverse right, move up, then traverse left, that's the general
 path that the pitch takes.
 
-The first portion is characterized by a traverse where you are
-wrapping your way around the pinnacle and you even down climb a bit
-and are immediately very exposed with several hundred feet of
-nothingness below you.  When I climbed this traverse I inadvertently
-lost my balance at one point, and very nearly fell.
+We changed our rope strategy for this pitch.  Once Jon got to the top
+of Eichorn, I put Caden on a figure 8 on a bite at a point that was
+probably 45 to 50 meters into the rope (quasi midpoint).  This would
+allow Caden to get pretty close to the summit before I began climbing.
+This strategy worked well with the 80 meter rope.
+
+The first portion of the pitch is characterized by a traverse where
+you are wrapping your way around the pinnacle and even down climbing a
+bit with some immediate exposure as the Pinnacles drops below your
+feet for a few hundred feet.
 
 [Eichorn Lower Section of the Pitch (Shane Climbing) (no sound)](https://www.youtube.com/watch?v=GiWSj38ESbA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=28&t=169s)
 
 In the video clip above, there's a spot 2:57 in, where I'd reached for
-a hold and slipped and came super close to falling (closer than it
+a hold and slipped and came extremely close to falling (closer than it
 appears in the video).
 
-The crux of the route is right when the initial traverse completes and
-the vertical ascent begins.  Jon and I used a couple high left holds
-to get through this crux.  Caden said he found a little nob to his
-right and did a pull to get up to it and a push on it to get up
-farther to a much better hold beyond the crux.  This vertical section
-is really nice and varied.
+The crux of the route is at the point when the initial traverse is
+complete and the vertical ascent begins.  Jon and I used a couple high
+left holds to get through this crux.  Caden said he found a little nob
+to his right and did a pull to get up to it and a push on it to get up
+farther to a much better hold beyond the crux.  This whole vertical
+section of the pitch is sustained and has a lot of varied climbing.
 
 At the top where you begin the traverse back towards the climbers
-left, there are these huge dihedrals.  Think two columns, about a body
-width apart, with the option of going to the left of the left column,
-or the right of the right column, or right up between the two columns.
-I think people tend to go left (the route topo is marked with "exposed
-move left").  Caden and I'd watched a couple videos preparing and he'd
-seen the spot to go left so he didn't struggle with the offwidth in
-the middle.  Unfortunately, Jon had gone right!  I waited at the base
-for several minutes as Jon explained to Caden how to get back on route
-and they worked it out.  I too was surprised when I got to this
-section.  The right side of the right column was the opposite side of
-the pinnacle from where we'd began the vertical ascent, and its
-exposure is even more extreme, basically vertical, for a long ways,
-with spectactular views.
+left, there are these huge dihedrals (unfortunately we didn't get
+video of this section).  Think two columns, about a body width apart,
+with the option of going to the left of the left column, or the right
+of the right column, or right up between the two columns.  Climbers
+tend to go left (the route topo is marked with "exposed move left").
+Caden and I'd watched a couple videos preparing and he'd seen the spot
+where he needed to go left so he was prepared!  Unfortunately, Jon
+went right!  I waited at the base for several minutes as Jon explained
+to Caden how to get back on route and they worked it out.  I was also
+surprised when I got to this section.  The right side of the right
+column was the opposite side of the pinnacle from where we'd began the
+vertical ascent, and its exposure is pretty dramatic, basically
+vertical, for a long ways, with spectactular views.  I really liked
+the "right" option!
 
 At the summit it was clear Caden was exhausted so we took a couple
 photos and quickly descended.  I rappelled first, followed by Caden,
-then Jon.  I then short roped with Caden and we made our way back
+then Jon.  I then short roped myself to Caden and we made our way back
 across the ledges and after about 20 minutes we got to the other side
-where mom was waiting.  We switched shoes, fueled up, and began our
-hike back.
-
-
-# Videos
-
+where mom was waiting for us.  We switched shoes, fueled up, and began
+our hike back.
 
 
 
 # Summary
 
+[Full YouTube video playlist](https://www.youtube.com/playlist?list=PLpuFCISxNROJiCw14oRaawkyfC-O8rfh0)
+
 Time:
 - 9:30am - parked, geared up, 2 hour 15 minute approach (very slow pace)
 - 12:30pm - started climbing
 - 3:15pm - cathedral summit (2 hour 45 minutes of climbing)
-- 5:30pm - eichorn summit
+- 4:50pm - began climbing eichorn
+- 5:30pm - all on eichorn summit
 - 6:30pm - begin return hike starting at the backside of cathedral
 - 8:30pm - Returned to the trailhead (11 hours car to car)
 
