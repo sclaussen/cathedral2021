@@ -54,8 +54,8 @@ airy, exposed, single pitch waiting.
 If you want the video version, here are the two summary videos of our
 adventure, each about 25 minutes long:
 
-[Cathedral Peak & Eichorn's Pinnacle (Part 1)](https://youtu.be/R2eLCRQG70I)
-[Cathedral Peak & Eichorn's Pinnacle (Part 2)](https://youtu.be/ig6kynUHPk0)
+- [Cathedral Peak & Eichorn's Pinnacle (Part 1)](https://youtu.be/R2eLCRQG70I)
+- [Cathedral Peak & Eichorn's Pinnacle (Part 2)](https://youtu.be/ig6kynUHPk0)
 
 
 
