@@ -140,7 +140,7 @@ Although we'd passed several parties, there were still a couple above
 us by the time Jon began the 3rd pitch and he passed them on his lead.
 This top section is characterized by a lot of different shorter
 sections of varied climbing.  It begins with a nice dihedral then a
-series of ledge, crack, ledge, and crack.  In one section Jon had
+series of ledges and short crack sections.  In one section Jon had
 taken the 5.9 finger crack variation.  When Caden got there, he made
 the attempt but the rope was pulling him to the left, so he got a bit
 frustrated (I think he was low on energy), and eventually we bailed on
@@ -208,8 +208,10 @@ This strategy worked well with the 80 meter rope.
 
 The first portion of the pitch is characterized by a traverse where
 you are wrapping your way around the pinnacle and even down climbing a
-bit with some immediate exposure as the Pinnacles drops below your
+bit with some immediate exposure as the pinnacle drops below your
 feet for a few hundred feet.
+
+Here's a video of me following on the pitch:
 
 [Eichorn Lower Section of the Pitch (Shane Climbing) (no sound)](https://www.youtube.com/watch?v=GiWSj38ESbA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=28&t=169s)
 
