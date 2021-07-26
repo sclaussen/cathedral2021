@@ -1,3 +1,13 @@
+# Videos
+
+If you want the video version, here are the two summary videos of our
+adventure, each about 25 minutes long:
+
+- [Cathedral Peak & Eichorn's Pinnacle (Part 1)](https://youtu.be/R2eLCRQG70I)
+- [Cathedral Peak & Eichorn's Pinnacle (Part 2)](https://youtu.be/ig6kynUHPk0)
+
+
+
 # Background
 
 **Friday, July 16th, 2021**<br/>
@@ -46,16 +56,6 @@ about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
 <img src="./images/eichorn.jpg" alt="cathedral" width="300"/> <img src="./images/eichorn-topo.png" alt="topo" width="300"/>
-
-
-
-# Videos
-
-If you want the video version, here are the two summary videos of our
-adventure, each about 25 minutes long:
-
-- [Cathedral Peak & Eichorn's Pinnacle (Part 1)](https://youtu.be/R2eLCRQG70I)
-- [Cathedral Peak & Eichorn's Pinnacle (Part 2)](https://youtu.be/ig6kynUHPk0)
 
 
 
