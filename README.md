@@ -16,8 +16,8 @@ location in Yosemite.  The approach begins in Tuolumne Meadows at
 
 Cathederal is well known among climbers due to its moderately rated
 routes and beautiful white knobby granite.  The climbing routes go up
-the southwest face and there are three "primary" variations, A, B, and
-C, from left to right (although there are numerous variations in
+the southeast buttress and there are three "primary" variations, A, B,
+and C, from left to right (although there are numerous variations in
 between).  If climbed with a typical 60m rope (~185 feet), Cathedral
 can be completed in 5 pitches.  The climbing is relatively sustained
 and diverse and increases in difficulty and verticality as you ascend.
@@ -122,6 +122,8 @@ At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
 
+[Highlights of Caden climbing Pitch 1 and 2](https://youtu.be/R2eLCRQG70I)
+
 
 
 # Pitch 3 of 3
@@ -196,7 +198,11 @@ and are immediately very exposed with several hundred feet of
 nothingness below you.  When I climbed this traverse I inadvertently
 lost my balance at one point, and very nearly fell.
 
-[Echorn Lower Section of the Pitch - Shane Climbing](https://www.youtube.com/watch?v=GiWSj38ESbA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=28&t=169s)
+[Eichorn Lower Section of the Pitch (Shane Climbing) (no sound)](https://www.youtube.com/watch?v=GiWSj38ESbA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=28&t=169s)
+
+In the video clip above, there's a spot 2:57 in, where I'd reached for
+a hold and slipped and came super close to falling (closer than it
+appears in the video).
 
 The crux of the route is right when the initial traverse completes and
 the vertical ascent begins.  Jon and I used a couple high left holds
