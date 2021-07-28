@@ -8,9 +8,16 @@ summary videos, each about 25 minutes long:
 
 
 
+
+
+
 # Background
 
 **Friday, July 16th, 2021**<br/>
+
+The net/net is that we did a lot of climbing for this summit shot:<br/>
+<img src="./images/Summit2.png" width="600"/>
+<br/>
 
 Cathedral Peak is one of the most prominent peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
@@ -21,12 +28,12 @@ the top is unsurpassed due to Cathedral's central location in
 Yosemite.  The approach begins in Tuolumne Meadows at 8600ft and takes
 about 2 hours.
 
-*Cathedral on our way in*<br/>
+*Cathedral on our hiking approach*<br/>
 <img src="./images/cathedral.jpg" alt="cathedral" width="600"/>
 <br/>
 
 *Cathedral climbing topo*<br/>
-<img src="./images/cathedral-topo.png" alt="topo" width="300"/>
+<img src="./images/cathedral-topo.png" alt="topo" width="600"/>
 <br/>
 
 Cathederal is well known among climbers due to its moderately rated
@@ -62,16 +69,16 @@ its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
-*Eichorn photo from our Cathedral summit location*<br/>
+*Eichorn photo from our Cathedral summit position*<br/>
 <img src="./images/P4-EichornFromCathedral.png" width="600"/>
 <br/>
 
-*Eichorn photo from Zeenat's location below the Cathedral summit*<br/>
+*Eichorn photo from Zeenat's position below the Cathedral summit*<br/>
 <img src="./images/P5-EichornView.png" width="600"/>
 <br/>
 
 *Eichorn climbing topo*<br/>
-<img src="./images/eichorn-topo.png" alt="topo" width="300"/>
+<img src="./images/eichorn-topo.png" alt="topo" width="450"/>
 <br/>
 
 
@@ -220,9 +227,6 @@ at the time it wasn't clear that we were even on the summit!
 
 *Dad/son summit shot!*<br/>
 <img src="./images/P4-75.png" width="300"/>
-
-*Another dad/son summit shot!*<br/>
-<img src="./images/Summit2.png" width="600"/>
 
 
 
