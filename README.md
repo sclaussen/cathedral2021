@@ -108,13 +108,16 @@ Here were a few Caden quotes from pitch 1:
 - "These Tuolumne knobs are littered all over."
 
 
-*Caden climbing*<br/>
+*Caden at the base of the climb*<br/>
 <img src="./images/P0-0342.png" width="300"/>
 
-*Caden climbing*<br/>
+*Climbing pitch 1*<br/>
 <img src="./images/P1-15.png" width="300"/>
 <img src="./images/P1-29.png" width="300"/>
 
+*Nearing the top of the first pitch*<br/>
+<img src="./images/P1-68.png" width="300"/>
+<img src="./images/P1-69.png" width="300"/>
 
 
 
@@ -140,6 +143,12 @@ That belay station was a nice memory.
 At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
+
+Short 5.7 face climbing crux at the beginning of pitch 2
+<img src="./images/P2-42.png" width="300"/>
+
+The 5.7 crux on pitch 2 left of the chimney
+<img src="./images/P2-46.png" width="300"/>
 
 
 
@@ -179,6 +188,12 @@ We had topped out after only 2:45 minutes of climbing.  Zeenat had
 hiked up the descent trail and was in a position on the backside of
 Cathedral enabling us to see her and vice versa.  From her perspective
 at the time it wasn't clear that we were even on the summit!
+
+Caden climbing up the summit blocks</br>
+<img src="./images/P4-59.png" width="300"/>
+
+On the summit with 360 degree views</br>
+<img src="./images/P4-65.png" width="300"/>
 
 
 
@@ -288,12 +303,6 @@ And repeating some notes from the last time we climbed:
 
 
 
-<img src="./images/P1-68.png" width="300"/>
-<img src="./images/P1-69.png" width="300"/>
-<img src="./images/P2-42.png" width="300"/>
-<img src="./images/P2-46.png" width="300"/>
-<img src="./images/P4-59.png" width="300"/>
-<img src="./images/P4-65.png" width="300"/>
 <img src="./images/P5-Eichorn-9050.png" width="300"/>
 <img src="./images/P5-Eichorn-b.png" width="300"/>
 <img src="./images/P5-EichornSummit--76.png" width="300"/>
