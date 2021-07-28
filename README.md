@@ -208,6 +208,9 @@ at the time it wasn't clear that we were even on the summit!
 *Dad/son summit shot!*<br/>
 <img src="./images/P4-75.png" width="300"/>
 
+*Another dad/son summit shot!*<br/>
+<img src="./images/Summit2.png" width="600"/>
+
 
 
 # Traverse to Eichorn
