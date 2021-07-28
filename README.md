@@ -55,7 +55,7 @@ its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
-<img src="./images/eichorn.jpg" alt="cathedral" width="300"/> <img src="./images/eichorn-topo.png" alt="topo" width="300"/>
+<img src="./images/P5-EichornView.png" width="300"/> <img src="./images/eichorn-topo.png" alt="topo" width="300"/>
 
 
 
@@ -312,13 +312,15 @@ And repeating some notes from the last time we climbed:
 
 
 
+*P5-Eichorn-9050.png*<br/>
 <img src="./images/P5-Eichorn-9050.png" width="300"/>
+*P5-Eichorn-b.png*<br/>
 <img src="./images/P5-Eichorn-b.png" width="300"/>
+*P5-EichornSummit--76.png*<br/>
 <img src="./images/P5-EichornSummit--76.png" width="300"/>
+*P5-EichornSummit-0361.png*<br/>
 <img src="./images/P5-EichornSummit-0361.png" width="300"/>
-<img src="./images/P5-EichornView.png" width="300"/>
+*P5-Rap4.png*<br/>
 <img src="./images/P5-Rap4.png" width="300"/>
+*P6-Return-0372b.png*<br/>
 <img src="./images/P6-Return-0372b.png" width="300"/>
-<img src="./images/cathedral-topo.png" width="300"/>
-<img src="./images/cathedral.jpg" width="300"/>
-<img src="./images/eichorn-topo.png" width="300"/>
