@@ -148,11 +148,9 @@ At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
 
-*Short 5.7 face climbing crux at the beginning of pitch 2*<br/>
-<img src="./images/P2-42.png" width="300"/>
-
-*Caden at the base of the climb.7 crux on pitch 2 left of the chimney*<br/>
-<img src="./images/P2-46.png" width="300"/>
+*Climbing pitch 2, 5.7 face section & the 5.7 crux left of the chimney*<br/>
+<img src="./images/P2-42.png" width="300"/> <img src="./images/P2-46.png" width="300"/>
+<br/>
 
 
 
@@ -175,11 +173,9 @@ route at 7:30am and I think she was just exhausted!  Caden struggled
 in the same spot briefly but pushed through and disappeared over the
 false summit.
 
-*Moving up the dihedral on pitch 3*</br>
-<img src="./images/P3-50.png" width="300"/>
-
-*Caden at the top of the false summit*</br>
-<img src="./images/P3-70.png" width="300"/>
+*Pitch 3 climbing, up the dihedral, and then Caden at the false summit*</br>
+<img src="./images/P3-50.png" width="300"/>  <img src="./images/P3-70.png" width="300"/>
+<br/>
 
 
 
