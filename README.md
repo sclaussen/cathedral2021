@@ -108,11 +108,11 @@ Here were a few Caden quotes from pitch 1:
 - "These Tuolumne knobs are littered all over."
 
 
-<sub>Caden at the base of the first pitch</sub>
+<b>Caden at the base of the first pitch</b>
 <img src="./images/P0-0342.png" width="300"/>
 
 
-<sub>Caden climbing on the first pitch</sub>
+<b>Caden climbing on the first pitch</b>
 <img src="./images/P1-15.png" width="300"/>
 <img src="./images/P1-29.png" width="300"/>
 
