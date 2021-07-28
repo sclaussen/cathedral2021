@@ -249,15 +249,19 @@ summit!
 
 *Climbing up the summit blocks*<br/>
 <img src="./images/P4-59.png" width="300"/>
+<img src="./images/P4-61.png" width="300"/>
+<br/>
 
 *On the summit with 360 degree views*<br/>
 <img src="./images/P4-65.png" width="300"/>
+<img src="./images/Summit9.png" width="300"/>
+<br/>
 
 *Zeenat's shot of us on the summit!*<br/>
 <img src="./images/P4-8945.png" width="300"/>
 
 *Father/son summit shot!*<br/>
-<img src="./images/P4-75.png" width="300"/>
+<img src="./images/P4-75.png" width="600"/>
 
 
 
