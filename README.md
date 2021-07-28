@@ -109,9 +109,9 @@ Here were a few Caden quotes from pitch 1:
 
 
 *Caden climbing*
-![](./images/P0-0342.png)
+<img src="./images/P0-0342.png" width="300"/>
 
-<b>Caden climbing on the first pitch</b>
+*Caden climbing*
 <img src="./images/P1-15.png" width="300"/>
 <img src="./images/P1-29.png" width="300"/>
 
