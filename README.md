@@ -119,11 +119,11 @@ Here's a summary of our strategy:
 Zeenat, Caden, and I met Jon at 9:30am at the Cathedral Lakes
 trailhead.  We sorted our gear, tossed on our harnesses and climbing
 packs, and began the hike in.  It was a clear, picturesque, and
-beautiful high sierra day, that never had a cloud in the sky.  It took
-us 2hrs 15mins to cover the 2.7 miles to get to the base of the climb,
-and another 30 minutes or so to get ready to climb.  Caden had a bit
-of altitude sickness over the course of the day so that slowed our
-approach a bit.
+beautiful high Sierra day, that remained cloudless for the entire day.
+It took us 2hrs 15mins to cover the 2.7 miles to get to the base of
+the climb, and another 30 minutes or so to get ready to climb.  Caden
+had a bit of altitude sickness over the course of the day so we slowed
+our approach a bit so he could hydrate and slow his heart rate.
 
 
 
@@ -139,9 +139,8 @@ station on the 5.4 dihedral just above the top of the second pitches
 for the A, B, and C routes (giving us a really long initial pitch of
 around ~330 feet).
 
-Caden loved this initial long pitch and climbed really well.
-
-Here were a few Caden quotes from pitch 1:
+Caden loved this initial long pitch and climbed really well.  Here
+were a few of his quotes from the first pitch:
 - On learning what it's like to follow Jon: "There's no protection
   whatsoever."
 - While waiting for Jon to build the anchor: "Awesome view I love it."
@@ -170,20 +169,24 @@ Here were a few Caden quotes from pitch 1:
 
 # Pitch 2 of 3
 
-There were around 5 parties of 2 at the chimney choke point, so Jon
-suggested we take the B route variation that goes up to the left of
-the chimney to try and pass the parties so we'd still have a chance to
-get Eichorn in before dark (he'd free solo'ed this pitch previously so
-he had a pretty idea what it was like).  Although the variation was a
-bit stiffer we opted for that option.  When Caden followed Jon's
-awesome lead, as the climbing difficulty increased, Caden locked in
-and his climbing technique increased, and he cruised through the two
-noticeable crux sections with ease.  The belay station was towards the
-far left of the southwest face and was relatively exposed.  For the
-most part, Caden used a hanging belay technique as Jon led the 3rd
-pitch.  Caden was proving that not only was he comfortable with the
-exposure, he actually was exhilarated by it.  He was up around 500+
-feet now and he was on cloud 9, loving the view, super happy, and
+There were around 5 pairs of climbers at the chimney choke point so
+Jon suggested we take the B route variation that goes up to the left
+of the chimney and attempt to pass the the parties to increase our
+odds of being able to climb Eichorn before dark (he'd free solo'ed
+this pitch previously so he had a pretty idea what it was like).
+
+Although the variation was a bit stiffer we opted for that option.
+When Caden followed Jon's awesome lead, as the climbing difficulty
+increased, Caden locked in and his climbing technique paralled the
+difficulty, and he cruised through the two noticeable crux sections
+with ease.
+
+The belay station was towards the far left of the southeast buttress
+and was relatively exposed.  For the most part, Caden used a hanging
+belay technique as Jon led the 3rd pitch.  Caden was proving that not
+only was he comfortable with the exposure, he actually was exhilarated
+by it, and was soaking up the whole experience.  He was up around 500+
+feet now and he was on cloud 9, loving the view, energized, and
 feeling confident that he was going to be able to finish the route.
 That belay station was a nice memory.
 
