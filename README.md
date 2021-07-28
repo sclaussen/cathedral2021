@@ -144,10 +144,10 @@ At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
 
-Short 5.7 face climbing crux at the beginning of pitch 2<br/>
+*Short 5.7 face climbing crux at the beginning of pitch 2*<br/>
 <img src="./images/P2-42.png" width="300"/>
 
-Caden at the base of the climb.7 crux on pitch 2 left of the chimney<br/>
+*Caden at the base of the climb.7 crux on pitch 2 left of the chimney*<br/>
 <img src="./images/P2-46.png" width="300"/>
 
 
@@ -189,10 +189,10 @@ hiked up the descent trail and was in a position on the backside of
 Cathedral enabling us to see her and vice versa.  From her perspective
 at the time it wasn't clear that we were even on the summit!
 
-Caden climbing up the summit blocks</br>
+*Caden climbing up the summit blocks*<br/>
 <img src="./images/P4-59.png" width="300"/>
 
-On the summit with 360 degree views</br>
+*On the summit with 360 degree views*<br/>
 <img src="./images/P4-65.png" width="300"/>
 
 
