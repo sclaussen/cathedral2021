@@ -350,21 +350,23 @@ up, and began our hike back.
 <img src="./images/P5-Eichorn-b.png" width="300"/>
 <br/>
 
-*Climing up onto the Eichorn summit*<br/>
-<img src="./images/P5-EichornSummit--76.png" width="300"/><br/>
+*Summit!  Cathedral Peak in the background from the Summit*<br/>
+<img src="./images/P5-EichornSummit--76.png" width="300"/>
+<img src="./images/P5-EichornSummit-0361.png" width="300"/>
+<br/>
 
-*Summit of Eichorn*<br/>
-<img src="./images/P5-Eichorn-9050.png" width="300"/><br/>
-
-*On Eichorn with the summit of Cathedral in the background*<br/>
-<img src="./images/P5-EichornSummit-0361.png" width="300"/><br/>
-
-*Caden rappelling down from Eichorn*<br/>
-<img src="./images/P5-Rap4.png" width="300"/><br/>
+*Eichorn summit and Caden rappelling*<br/>
+<img src="./images/P5-Eichorn-9050.png" width="300"/>
+<img src="./images/P5-Rap4.png" width="300"/>
+<br/>
 
 *Exhausted, Caden makes the traverse across the Cathedral ledges to the descent trail*<br/>
 <img src="./images/P6-Return-0372b.png" width="300"/>
 
+*Tipping my cap to our trip leader!*
+<img src="./images/P6-Return-0376.png" width="300"/>
+<img src="./images/P6-Return-0380.png" width="300"/>
+<br/>
 
 
 # Summary
