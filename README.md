@@ -152,7 +152,7 @@ made a mistake by not getting any carbs into his system at this point.
 
 
 
-# Climbing pitch 1 of 3
+# Climbing pitch 3 of 3
 
 Although we'd passed several parties, there were still a couple above
 us by the time Jon began the 3rd pitch and he passed them on his lead.
@@ -170,6 +170,12 @@ crack where it gets a bit wide.  She and her partner had begun the
 route at 7:30am and I think she was just exhausted!  Caden struggled
 in the same spot briefly but pushed through and disappeared over the
 false summit.
+
+*Moving up the dihedral on pitch 3*</br>
+<img src="./images/P3-50.png" width="300"/>
+
+*Caden at the top of the false summit*</br>
+<img src="./images/P3-70.png" width="300"/>
 
 
 
@@ -189,11 +195,14 @@ hiked up the descent trail and was in a position on the backside of
 Cathedral enabling us to see her and vice versa.  From her perspective
 at the time it wasn't clear that we were even on the summit!
 
-*Caden climbing up the summit blocks*<br/>
+*Climbing up the summit blocks*<br/>
 <img src="./images/P4-59.png" width="300"/>
 
 *On the summit with 360 degree views*<br/>
 <img src="./images/P4-65.png" width="300"/>
+
+*Dad/son summit shot!*<br/>
+<img src="./images/P4-75.png" width="300"/>
 
 
 
