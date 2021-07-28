@@ -254,7 +254,7 @@ summit!
 <img src="./images/P4-65.png" width="300"/>
 
 *Zeenat's shot of us on the summit!*<br/>
-<img src="./images/P4-8495.png" width="300"/>
+<img src="./images/P4-8945.png" width="300"/>
 
 *Father/son summit shot!*<br/>
 <img src="./images/P4-75.png" width="300"/>
