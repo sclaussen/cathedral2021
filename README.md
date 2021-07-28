@@ -363,7 +363,7 @@ up, and began our hike back.
 *Exhausted, Caden makes the traverse across the Cathedral ledges to the descent trail*<br/>
 <img src="./images/P6-Return-0372b.png" width="300"/>
 
-*Tipping my cap to our trip leader!*
+*Jon was the hero leading us all day!*<br/>
 <img src="./images/P6-Return-0376.png" width="300"/>
 <img src="./images/P6-Return-0380.png" width="300"/>
 <br/>
