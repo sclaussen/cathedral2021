@@ -16,12 +16,12 @@ Cathedral Peak is one of the most prominent peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
 John Muir made the first ascent of Cathedral Peak in 1869 by
 scampering up the 4th class backside in boots.  The base of the peak
-is around 10,200ft and it tops out at around 10,900ft (netting 700ft
-of great climbing on white granite with knobs sprinkled everywhere).
-The view from the top is unsurpassed due to Cathedral's central
-location in Yosemite.  The approach begins in Tuolumne Meadows at
-8600ft and takes about 2 hours.
+is around 10,200ft and it tops out at around 10,900ft.  The view from
+the top is unsurpassed due to Cathedral's central location in
+Yosemite.  The approach begins in Tuolumne Meadows at 8600ft and takes
+about 2 hours.
 
+*Cathedral on our way in, and the Cathedral climbing topo*
 <img src="./images/cathedral.jpg" alt="cathedral" width="300"/> <img src="./images/cathedral-topo.png" alt="topo" width="250"/>
 
 Cathederal is well known among climbers due to its moderately rated
@@ -29,8 +29,10 @@ routes and beautiful white knobby granite.  The climbing routes go up
 the southeast buttress and there are three "primary" variations, A, B,
 and C, from left to right (although there are numerous variations in
 between).  If climbed with a typical 60m rope (~185 feet), Cathedral
-can be completed in 5 pitches.  The climbing is relatively sustained
-and diverse and increases in difficulty and verticality as you ascend.
+can be completed in 5
+[pitches](https://en.wikipedia.org/wiki/Pitch_(ascent/descent)).  The
+climbing is relatively sustained and diverse and increases in
+difficulty and verticality as you ascend.
 
 We climbed the lower portion of Cathedral between the A and B
 variations and then went left and followed the B variation to the
@@ -38,14 +40,14 @@ summmit.
 
 There are a couple notable features in the climb.  The first is the
 chimney.  Climbing teams typically converge at the beginning of the
-fourth pitch at the chimney which frequently becomes a major choke
-point of the climb serializing climbing teams.  The summit blocks are
-another notable feature.  The last pitch has a nice 5.6 crack at the
-top with a false summit, followed by a (really is this the move?!)
-short down climb and a step across a very exposed gully, and then John
-Muir's ~20 foot 4th class scramble up onto two small summit blocks.
-Last but not least, the descent down the backside of Cathedral is
-somewhat notorious (eg the death ledges).
+fourth pitch at the chimney which frequently becomes a choke point
+serializing climbing teams.  The summit blocks are another notable
+feature.  The last pitch has a nice crack at the top with a false
+summit, followed by a (really is this the move?!) short down climb and
+a step across a very exposed gully.  After that, there's a short ~20
+foot 4th class scramble up onto two small summit blocks.  Last but not
+least, the descent down the backside of Cathedral is somewhat
+notorious (eg the death ledges).
 
 If Cathedral is the main course, Eichorn's Pinnacle is the desert.
 Eichorn is one of the most spectacular features in Tuolumne, named
@@ -55,7 +57,13 @@ its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
-<img src="./images/P5-EichornView.png" width="300"/> <img src="./images/eichorn-topo.png" alt="topo" width="300"/>
+*Eichorn photo from our Cathedral summit*<br/>
+<img src="./images/P5-EichornView.png" width="600"/>
+<br/>
+
+*Eichorn climbing topo*<br/>
+<img src="./images/eichorn-topo.png" alt="topo" width="300"/>
+<br/>
 
 
 
