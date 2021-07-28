@@ -62,7 +62,11 @@ its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
-*Eichorn photo from our Cathedral summit*<br/>
+*Eichorn photo from our Cathedral summit location*<br/>
+<img src="./images/P4-EichornFromCathedral.png" width="600"/>
+<br/>
+
+*Eichorn photo from Zeenat's location below the Cathedral summit*<br/>
 <img src="./images/P5-EichornView.png" width="600"/>
 <br/>
 
