@@ -108,12 +108,9 @@ Here were a few Caden quotes from pitch 1:
 - "These Tuolumne knobs are littered all over."
 
 
-<figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  <figcaption>{{ include.description }}</figcaption>
-</figure>
+![](./images/P0-0342.png)
+*Caden climbing*
 
-{% include image.html url="./images/P0-0342.png" description="Caden at the base of the first pitch" %}
 
 
 <b>Caden climbing on the first pitch</b>
