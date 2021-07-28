@@ -108,10 +108,8 @@ Here were a few Caden quotes from pitch 1:
 - "These Tuolumne knobs are littered all over."
 
 
-![](./images/P0-0342.png)
 *Caden climbing*
-
-
+![](./images/P0-0342.png)
 
 <b>Caden climbing on the first pitch</b>
 <img src="./images/P1-15.png" width="300"/>
