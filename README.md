@@ -66,7 +66,7 @@ least, the descent down the backside of Cathedral is somewhat
 notorious (eg the death ledges).
 
 If Cathedral is the main course, Eichorn's Pinnacle is the dessert.
-Eichorn is one of the most spectacular features in Tuolumne, named
+Eichorn is one of the most breathtaking features in Tuolumne, named
 after Jules Eichorn who was part of the first ascent party in 1931
 (and another prominent early Yosemite climber).  It can be climbed on
 its own right from its base, but after climbing Cathedral, it's only
@@ -90,13 +90,15 @@ out onto the rock with the thought of tackling a major Yosemite
 objective like Royal Arches, Cathedral Peak, or Mount Tenaya.  We did
 a lot of local rappelling and climbing at both Handley and Split Rock,
 made multiple trips to Yosemite Valley where we did several shorter
-multipitch routes, and then we also made a camping/climbing trip to
-Joshua Tree and got some rappelling and climbing in there.  The most
-adventurous part of our prep and the highlight was taking Caden up
-Tollhouse Traverse in the southern Sierras.  The summary of all that
-prep was that we developed pretty high confidence that Caden had both
-the endurance and maturity to tackle something like Cathedral.  And
-eventually, preparation met opportunity!
+multipitch routes, and we also made a camping/climbing trip to Joshua
+Tree and got some rappelling and climbing in there.  The most
+adventurous part of our prep and the overall adventure highlight was
+taking Caden up the four pitches of [Tollhouse
+Traverse](https://cdn2.apstatic.com/photos/climb/106090263_medium_1558646505.jpg)
+in the Southern Sierras.  The summary of all that prep was that we
+developed pretty high confidence that Caden had skills, endurance, and
+maturity to tackle something like Cathedral Peak.  Eventually,
+preparation met opportunity!
 
 
 
