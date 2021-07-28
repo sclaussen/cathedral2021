@@ -144,15 +144,15 @@ At this belay station we added a second layer for Caden as there was a
 bit of breeze, changed his GoPro battery, drank a lot of water, but I
 made a mistake by not getting any carbs into his system at this point.
 
-Short 5.7 face climbing crux at the beginning of pitch 2
+Short 5.7 face climbing crux at the beginning of pitch 2<br/>
 <img src="./images/P2-42.png" width="300"/>
 
-The 5.7 crux on pitch 2 left of the chimney
+Caden at the base of the climb.7 crux on pitch 2 left of the chimney<br/>
 <img src="./images/P2-46.png" width="300"/>
 
 
 
-# Pitch 3 of 3
+# Climbing pitch 1 of 3
 
 Although we'd passed several parties, there were still a couple above
 us by the time Jon began the 3rd pitch and he passed them on his lead.
