@@ -172,8 +172,9 @@ were a few of his quotes from the first pitch:
 There were around 5 pairs of climbers at the chimney choke point so
 Jon suggested we take the B route variation that goes up to the left
 of the chimney and attempt to pass the the parties to increase our
-odds of being able to climb Eichorn before dark (he'd free solo'ed
-this pitch previously so he had a pretty idea what it was like).
+odds of being able to climb Eichorn before dark (he'd free solo'ed the
+pitch left of the chimney recently so he had a pretty good
+recollection of what it was like).
 
 Although the variation was a bit stiffer we opted for that option.
 When Caden followed Jon's awesome lead, as the climbing difficulty
@@ -186,13 +187,14 @@ and was relatively exposed.  For the most part, Caden used a hanging
 belay technique as Jon led the 3rd pitch.  Caden was proving that not
 only was he comfortable with the exposure, he actually was exhilarated
 by it, and was soaking up the whole experience.  He was up around 500+
-feet now and he was on cloud 9, loving the view, energized, and
+feet now and he was on cloud nine, loving the view, energized, and
 feeling confident that he was going to be able to finish the route.
 That belay station was a nice memory.
 
-At this belay station we added a second layer for Caden as there was a
-bit of breeze, changed his GoPro battery, drank a lot of water, but I
-made a mistake by not getting any carbs into his system at this point.
+At this belay station we added a second layer for Caden due to the
+cooler breeze, changed his GoPro battery, and drank a lot of water.
+However, I made a mistake by not getting any carbs into his system at
+this point.
 
 *Climbing pitch 2, 5.7 face section & the 5.7 crux left of the chimney*<br/>
 <img src="./images/P2-42.png" width="300"/> <img src="./images/P2-46.png" width="300"/>
@@ -203,7 +205,8 @@ made a mistake by not getting any carbs into his system at this point.
 # Climbing pitch 3 of 3
 
 Although we'd passed several parties, there were still a couple above
-us by the time Jon began the 3rd pitch and he passed them on his lead.
+us by the time Jon began the 3rd pitch but he passed them on his lead.
+
 This top section is characterized by a lot of different shorter
 sections of varied climbing.  It begins with a nice dihedral then a
 series of ledges and short crack sections.  In one section Jon had
@@ -211,12 +214,14 @@ taken the 5.9 finger crack variation.  When Caden got there, he made
 the attempt but the rope was pulling him to the left, so he got a bit
 frustrated (I think he was low on energy), and eventually we bailed on
 that variation and he took the middle 5.6 crack while I took the even
-easier move left of that.  Above that, all that was left was the 5.6
-crack to the false summit.  We had to wait in the crack behind a girl
-who took about 10 minutes to make the very last move at the top of the
-crack where it gets a bit wide.  She and her partner had begun the
-route at 7:30am and I think she was just exhausted!  Caden struggled
-in the same spot briefly but pushed through and disappeared over the
+easier move left of that.
+
+Above that, all that was left was the crack that led to the false
+summit.  We had to wait in the crack behind a girl who took about ten
+minutes to make the very last move at the top of the crack where it
+gets a bit wide.  She and her partner had begun the route at 7:30am
+and I think she was nearly completely exhausted!  Caden struggled in
+the same spot briefly but pushed through and disappeared over the
 false summit.
 
 *Pitch 3 climbing, up the dihedral, and then Caden at the false summit*</br>
@@ -231,15 +236,16 @@ Jon had built the belay station at the very base of the summit blocks
 so I took the super short lead up the summit blocks (unnecessarily
 placing one cam), built a belay station, and belayed Caden up (Jon
 unroped and free solo'ed up to join us).  Caden's first words upon
-reaching the summit block were "I'm happy and I'm tired, there's
-Eichorn."  We'd been looking and discussing Eichorn for a couple
-years, so although he was exhausted his first thought upon summiting
-Cathedral was to refocus on his next goal - Eichorn.
+reaching the summit block were "*I'm happy and I'm tired, there's
+Eichorn!*" Caden and I had been looking at and discussing Eichorn for
+a couple years, so although he was exhausted I think seeing Eichorn
+gave him a boost of much needed adrenaline.
 
-We had topped out after only 2:45 minutes of climbing.  Zeenat had
-hiked up the descent trail and was in a position on the backside of
-Cathedral enabling us to see her and vice versa.  From her perspective
-at the time it wasn't clear that we were even on the summit!
+We had topped out after only 2 hours and 45 minutes of climbing.
+Zeenat had hiked up the descent trail and was in a position on the
+backside of Cathedral enabling us to see her and vice versa.  From her
+perspective at the time it wasn't clear that we were even on the
+summit!
 
 *Climbing up the summit blocks*<br/>
 <img src="./images/P4-59.png" width="300"/>
@@ -247,7 +253,10 @@ at the time it wasn't clear that we were even on the summit!
 *On the summit with 360 degree views*<br/>
 <img src="./images/P4-65.png" width="300"/>
 
-*Dad/son summit shot!*<br/>
+*Zeenat's shot of us on the summit!*<br/>
+<img src="./images/P4-8495.png" width="300"/>
+
+*Father/son summit shot!*<br/>
 <img src="./images/P4-75.png" width="300"/>
 
 
