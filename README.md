@@ -17,11 +17,13 @@ summary videos, each about 25 minutes long:
 
 **Spoiler Alert**: The net/net is that after a lot of prepping and
 climbing we succesfully got the following father/son photo from the
-summit of Cathedral!<br/>
+summit of Cathedral Peak!<br/>
 
 <img src="./images/Summit2.png" width="600"/><br/>
 
-Cathedral Peak is one of the most prominent peaks near Tuolumne
+[Cathedral
+Peak](https://www.google.com/search?q=cathedral+peak+yosemite&tbm=isch&ved=2ahUKEwiR--2RzYbyAhWDgZ4KHa5mCaQQ2-cCegQIABAA&oq=cathedral+peak+yosemite&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgQIABAYMgQIABAYUNoOWNoOYL4RaABwAHgAgAFMiAFMkgEBMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=yr0BYZHuH4OD-gSuzaWgCg&bih=931&biw=1440&rlz=1C5CHFA_enUS956US956)
+is one of the most prominent and spectacular peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
 John Muir made the first ascent of Cathedral Peak in 1869 by
 scampering up the 4th class backside in boots.  The base of the peak
