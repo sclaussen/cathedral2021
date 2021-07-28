@@ -15,9 +15,10 @@ summary videos, each about 25 minutes long:
 
 **Friday, July 16th, 2021**<br/>
 
-The net/net is that after a lot of prepping and climbing we
-succesfully got the following father/son photo from the summit of
-Cathedral!<br/>
+**Spoiler Alert**: The net/net is that after a lot of prepping and
+climbing we succesfully got the following father/son photo from the
+summit of Cathedral!<br/>
+
 <img src="./images/Summit2.png" width="600"/><br/>
 
 Cathedral Peak is one of the most prominent peaks near Tuolumne
@@ -62,7 +63,7 @@ foot 4th class scramble up onto two small summit blocks.  Last but not
 least, the descent down the backside of Cathedral is somewhat
 notorious (eg the death ledges).
 
-If Cathedral is the main course, Eichorn's Pinnacle is the desert.
+If Cathedral is the main course, Eichorn's Pinnacle is the dessert.
 Eichorn is one of the most spectacular features in Tuolumne, named
 after Jules Eichorn who was part of the first ascent party in 1931
 (and another prominent early Yosemite climber).  It can be climbed on
@@ -70,7 +71,7 @@ its own right from its base, but after climbing Cathedral, it's only
 about a 10 minute scramble over to Eichorn where there's a stellar,
 airy, exposed, single pitch waiting.
 
-*Eichorn photo from our Cathedral summit position*<br/>
+*Eichorn photo from our Cathedral summit position (with Budd & Cathedral Lakes)*<br/>
 <img src="./images/P4-EichornFromCathedral.png" width="600"/>
 <br/>
 
@@ -81,6 +82,19 @@ airy, exposed, single pitch waiting.
 *Eichorn climbing topo*<br/>
 <img src="./images/eichorn-topo.png" alt="topo" width="450"/>
 <br/>
+
+In the spring we began taking every opportunity we could to get Caden
+out onto the rock with the thought of tackling a major Yosemite
+objective like Royal Arches, Cathedral Peak, or Mount Tenaya.  We did
+a lot of local rappelling and climbing at both Handley and Split Rock,
+made multiple trips to Yosemite Valley where we did several shorter
+multipitch routes, and then we also made a camping/climbing trip to
+Joshua Tree and got some rappelling and climbing in there.  The most
+adventurous part of our prep and the highlight was taking Caden up
+Tollhouse Traverse in the southern Sierras.  The summary of all that
+prep was that we developed pretty high confidence that Caden had both
+the endurance and maturity to tackle something like Cathedral.  And
+eventually, preparation met opportunity!
 
 
 
