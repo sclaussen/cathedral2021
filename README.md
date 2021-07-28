@@ -15,9 +15,10 @@ summary videos, each about 25 minutes long:
 
 **Friday, July 16th, 2021**<br/>
 
-The net/net is that we did a lot of climbing for this summit shot:<br/>
-<img src="./images/Summit2.png" width="600"/>
-<br/>
+The net/net is that after a lot of prepping and climbing we
+succesfully got the following father/son photo from the summit of
+Cathedral!<br/>
+<img src="./images/Summit2.png" width="600"/><br/>
 
 Cathedral Peak is one of the most prominent peaks near Tuolumne
 Meadows in the portion of Yosemite that's north of Yosemite Valley.
