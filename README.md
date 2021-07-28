@@ -286,6 +286,24 @@ across the ledges and after about 20 minutes we got to the other side
 where mom was waiting for us.  We switched shoes, fueled up, and began
 our hike back.
 
+*Caden beginning the Eichorn traverse pitch*<br/>
+<img src="./images/P5-Eichorn-b.png" width="300"/><br/>
+
+*Climing up onto the Eichorn summit*<br/>
+<img src="./images/P5-EichornSummit--76.png" width="300"/><br/>
+
+*Summit of Eichorn*<br/>
+<img src="./images/P5-Eichorn-9050.png" width="300"/><br/>
+
+*On Eichorn with the summit of Cathedral in the background*<br/>
+<img src="./images/P5-EichornSummit-0361.png" width="300"/><br/>
+
+*Rappelling down from Eichorn*<br/>
+<img src="./images/P5-Rap4.png" width="300"/><br/>
+
+*Exhausted, Caden makes the traverse across the Cathedral ledges to the descent trail*<br/>
+<img src="./images/P6-Return-0372b.png" width="300"/>
+
 
 
 # Summary
@@ -312,24 +330,3 @@ And repeating some notes from the last time we climbed:
 - Consider taking more water then what you think you'll need, leave extra at the base for the return, drink a lot over the first three pitches.
 - There aren't many picnic ledges, so the food you eat on the route needs to be easily accessible and quickly consumable.
 - Don't forget sunscreen & sunglasses!
-
-
-
-
-*P5-Eichorn-9050.png*<br/>
-<img src="./images/P5-Eichorn-9050.png" width="300"/><br/>
-
-*P5-Eichorn-b.png*<br/>
-<img src="./images/P5-Eichorn-b.png" width="300"/><br/>
-
-*P5-EichornSummit--76.png*<br/>
-<img src="./images/P5-EichornSummit--76.png" width="300"/><br/>
-
-*P5-EichornSummit-0361.png*<br/>
-<img src="./images/P5-EichornSummit-0361.png" width="300"/><br/>
-
-*P5-Rap4.png*<br/>
-<img src="./images/P5-Rap4.png" width="300"/><br/>
-
-*P6-Return-0372b.png*<br/>
-<img src="./images/P6-Return-0372b.png" width="300"/>
