@@ -108,6 +108,15 @@ Here were a few Caden quotes from pitch 1:
 - "These Tuolumne knobs are littered all over."
 
 
+Caden at the base of the first pitch
+<img src="./images/P0-0342.png" width="600"/>
+
+
+Caden climbing on the first pitch
+<img src="./images/P1-15.png" width="300"/> <img src="./images/P1-29.png" width="300"/>
+
+
+
 
 # Pitch 2 of 3
 
@@ -279,10 +288,6 @@ And repeating some notes from the last time we climbed:
 
 
 
-<img src="./images/P0-0342.png" width="300"/>
-<img src="./images/P1-15.png" width="300"/>
-<img src="./images/P1-28.png" width="300"/>
-<img src="./images/P1-29.png" width="300"/>
 <img src="./images/P1-68.png" width="300"/>
 <img src="./images/P1-69.png" width="300"/>
 <img src="./images/P2-42.png" width="300"/>
