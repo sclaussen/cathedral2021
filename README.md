@@ -277,7 +277,7 @@ and we traversed carefully over to the base of Eichorn's Pinnacle
 where Jon had established an anchor for our last pitch of the day.
 
 *Caden rappelling from Cathedral in order to traverse to Eichorn*<br/>
-<img src="./images/P4-rappelling.png" width="300"/>
+<img src="./images/P4-Rappelling.png" width="300"/>
 
 
 
