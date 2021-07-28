@@ -349,13 +349,13 @@ way back across the ledges and after about 20 minutes we got to the
 other side where Zeenat was waiting for us.  We switched shoes, fueled
 up, and began our hike back.
 
-*Caden beginning the Eichorn traverse pitch*<br/>
+*Beginning Eichorn, and summitting*<br/>
 <img src="./images/P5-Eichorn-8970 copy.png" width="300"/>
-<img src="./images/P5-Eichorn-b.png" width="300"/>
+<img src="./images/P5-EichornSummit--76.png" width="300"/>
 <br/>
 
-*Summit!  Cathedral Peak in the background from the Summit*<br/>
-<img src="./images/P5-EichornSummit--76.png" width="300"/>
+*Beginning Eichorn, and summitting*<br/>
+<img src="./images/P5-Eichorn-b.png" width="300"/>
 <img src="./images/P5-EichornSummit-0361.png" width="300"/>
 <br/>
 
