@@ -346,7 +346,7 @@ other side where Zeenat was waiting for us.  We switched shoes, fueled
 up, and began our hike back.
 
 *Caden beginning the Eichorn traverse pitch*<br/>
-<img src="./images/P5-Eichorn-8970.png" width="300"/>
+<img src="./images/P5-Eichorn-8970 copy.png" width="300"/>
 <img src="./images/P5-Eichorn-b.png" width="300"/>
 <br/>
 
