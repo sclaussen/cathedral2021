@@ -150,6 +150,10 @@ were a few of his quotes from the first pitch:
 - "These Tuolumne knobs are littered all over."
 
 
+*Zeenat providing "ground based" support for the adventure*<br/>
+<img src="./images/P0-345.png" width="300"/>
+<br/>
+
 *Caden at the base of the climb*<br/>
 <img src="./images/P0-0342.png" width="300"/>
 <img src="./images/P0-0348.png" width="300"/>
