@@ -359,7 +359,7 @@ up, and began our hike back.
 *On Eichorn with the summit of Cathedral in the background*<br/>
 <img src="./images/P5-EichornSummit-0361.png" width="300"/><br/>
 
-*Rappelling down from Eichorn*<br/>
+*Caden rappelling down from Eichorn*<br/>
 <img src="./images/P5-Rap4.png" width="300"/><br/>
 
 *Exhausted, Caden makes the traverse across the Cathedral ledges to the descent trail*<br/>
