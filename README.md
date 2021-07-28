@@ -110,14 +110,18 @@ Here were a few Caden quotes from pitch 1:
 
 *Caden at the base of the climb*<br/>
 <img src="./images/P0-0342.png" width="300"/>
+<img src="./images/P0-0348.png" width="300"/>
+<br/>
 
 *Climbing pitch 1*<br/>
 <img src="./images/P1-15.png" width="300"/>
 <img src="./images/P1-29.png" width="300"/>
+<br/>
 
 *Nearing the top of the first pitch*<br/>
 <img src="./images/P1-68.png" width="300"/>
 <img src="./images/P1-69.png" width="300"/>
+<br/>
 
 
 
