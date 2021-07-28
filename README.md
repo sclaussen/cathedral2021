@@ -275,3 +275,29 @@ And repeating some notes from the last time we climbed:
 - Consider taking more water then what you think you'll need, leave extra at the base for the return, drink a lot over the first three pitches.
 - There aren't many picnic ledges, so the food you eat on the route needs to be easily accessible and quickly consumable.
 - Don't forget sunscreen & sunglasses!
+
+
+
+
+<img src="./images/P0-0342.png" width="300"/>
+<img src="./images/P1-15.png" width="300"/>
+<img src="./images/P1-28.png" width="300"/>
+<img src="./images/P1-29.png" width="300"/>
+<img src="./images/P1-68.png" width="300"/>
+<img src="./images/P1-69.png" width="300"/>
+<img src="./images/P2-42.png" width="300"/>
+<img src="./images/P2-46.png" width="300"/>
+<img src="./images/P4-59.png" width="300"/>
+<img src="./images/P4-65.png" width="300"/>
+<img src="./images/P5-Eichorn-9050.png" width="300"/>
+<img src="./images/P5-Eichorn-b.png" width="300"/>
+<img src="./images/P5-EichornSummit--76.png" width="300"/>
+<img src="./images/P5-EichornSummit-0361.png" width="300"/>
+<img src="./images/P5-EichornView copy.jpg" width="300"/>
+<img src="./images/P5-EichornView.png" width="300"/>
+<img src="./images/P5-Rap4.png" width="300"/>
+<img src="./images/P6-Return-0372b.png" width="300"/>
+<img src="./images/cathedral-topo.png" width="300"/>
+<img src="./images/cathedral.jpg" width="300"/>
+<img src="./images/eichorn-topo.png" width="300"/>
+<img src="./images/eichorn.jpg" width="300"/>
