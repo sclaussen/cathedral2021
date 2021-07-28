@@ -354,7 +354,7 @@ up, and began our hike back.
 <img src="./images/P5-EichornSummit--76.png" width="300"/>
 <br/>
 
-*Beginning Eichorn, and summitting*<br/>
+*Beginning Eichorn, and the summit with Cathedral in the background*<br/>
 <img src="./images/P5-Eichorn-b.png" width="300"/>
 <img src="./images/P5-EichornSummit-0361.png" width="300"/>
 <br/>
