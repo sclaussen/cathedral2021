@@ -315,33 +315,40 @@ complete and the vertical ascent begins.  Jon and I used a couple high
 left holds to get through this crux.  Caden said he found a little nob
 to his right and did a pull to get up to it and a push on it to get up
 farther to a much better hold beyond the crux.  This whole vertical
-section of the pitch is sustained and has a lot of varied climbing.
+section of the pitch is sustained and has a lot of fun and varied
+climbing.
 
 At the top where you begin the traverse back towards the climbers
 left, there are these huge dihedrals (unfortunately we didn't get
-video of this section).  Think two columns, about a body width apart,
-with the option of going to the left of the left column, or the right
-of the right column, or right up between the two columns.  Climbers
-tend to go left (the route topo is marked with "exposed move left").
-Caden and I'd watched a couple videos preparing and he'd seen the spot
-where he needed to go left so he was prepared!  Unfortunately, Jon
-went right!  I waited at the base for several minutes as Jon explained
-to Caden how to get back on route and they worked it out.  I was also
-surprised when I got to this section.  The right side of the right
-column was the opposite side of the pinnacle from where we'd began the
-vertical ascent, and its exposure is pretty dramatic, basically
-vertical, for a long ways, with spectactular views.  I really liked
-the "right" option!
+video of this section).  Visualize two columns, about a body width
+apart, with the option of going to the left of the left column, the
+right of the right column, or directly up between the two columns.
+Climbers tend to go left (the route topo is marked with "exposed move
+left").  Caden and I'd watched a couple videos preparing and he'd seen
+the spot where he needed to go left so he was prepared!
+Unfortunately, Jon went right!  I waited at the base for several
+minutes as Jon explained to Caden how to get back on route and they
+worked it out.  No climb is complete without some real time problem
+solving.
 
-At the summit it was clear Caden was exhausted so we took a couple
-photos and quickly descended.  I rappelled first, followed by Caden,
-then Jon.  I then short roped myself to Caden and we made our way back
-across the ledges and after about 20 minutes we got to the other side
-where mom was waiting for us.  We switched shoes, fueled up, and began
-our hike back.
+When I climbed the pitch, I was also surprised when I got to
+crossroads and noticed Jon had gone right.  The right side of the
+right column was the opposite side of the pinnacle from where we'd
+began the vertical ascent, and its exposure is pretty dramatic,
+basically vertical, for a long ways, with a spectactular view.  I
+really liked the "right" option!
+
+At the summit it was clear Caden was really quite exhausted so we took
+a couple photos and quickly descended.  I rappelled first, followed by
+Caden, then Jon.  I then short roped myself to Caden and we made our
+way back across the ledges and after about 20 minutes we got to the
+other side where Zeenat was waiting for us.  We switched shoes, fueled
+up, and began our hike back.
 
 *Caden beginning the Eichorn traverse pitch*<br/>
-<img src="./images/P5-Eichorn-b.png" width="300"/><br/>
+<img src="./images/P5-Eichorn-8970.png" width="300"/>
+<img src="./images/P5-Eichorn-b.png" width="300"/>
+<br/>
 
 *Climing up onto the Eichorn summit*<br/>
 <img src="./images/P5-EichornSummit--76.png" width="300"/><br/>
